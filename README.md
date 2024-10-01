@@ -1,1 +1,0 @@
-# projecao_3d
